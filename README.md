@@ -18,6 +18,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ryanraul&show_icons=true&theme=radical" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanraul&langs_count=5&theme=radical">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanraul&layout=compact&langs_count=5&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanraul&langs_count=5&theme=radical" />
   </a>
 </p>
