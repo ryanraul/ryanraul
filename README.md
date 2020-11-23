@@ -1,16 +1,18 @@
-### Hi there 👋
+<img src="https://ik.imagekit.io/ryanraul/bordaTeste2_-KhWGFZmy.png" />
 
-<!--
-**ryanraul/ryanraul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect with me:
 
-Here are some ideas to get you started:
+<a href = "https://www.linkedin.com/in/raul-ryan-deaque-silva-9521251b5/"><img align="left" alt="ryanraul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href = "https://www.linkedin.com/in/raul-ryan-deaque-silva-9521251b5/"><img align="left" alt="ryanraul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+## My Github Stats:
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=ryanraul&show_icons=true&theme=graywhite">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=ryanraul&show_icons=true&theme=graywhite" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanraul&langs_count=5&theme=graywhite">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanraul&langs_count=5&theme=graywhite" />
+</a>
+</div>
