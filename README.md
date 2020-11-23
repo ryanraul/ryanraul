@@ -13,7 +13,7 @@
 
 <br><br>
 ## My Github Stats:
-<p align='center'>
+<p align='left'>
   <a href="https://github-readme-stats.vercel.app/api?username=ryanraul&show_icons=true&theme=radical">
     <img src="https://github-readme-stats.vercel.app/api?username=ryanraul&show_icons=true&theme=radical" />
   </a>
